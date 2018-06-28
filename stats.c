@@ -9,13 +9,21 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file stats.c
+ * @brief implementation of functions.
  *
- * <Add Extended Description Here>
+ * functions:
+ * @main()
+ * @find_median()
+ * @find_mean()
+ * @find_maximum()
+ * @find_minimum()
+ * @sort_aray()
+ * @print_array()
+ * @print_statistics()
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Sher Azam Hussain
+ * @date 29/06/2018
  *
  */
 
@@ -40,4 +48,50 @@ void main() {
 
 }
 
-/* Add other Implementation File Code Here */
+/** functiion definitioins**/
+
+int find_median(char myArray[], int length){
+
+
+}
+
+float find_mean(char myArray[], int length){
+
+}
+
+
+int find_maximum(char myArray[], int length){
+
+}
+
+int find_minimum(char myArray[], int length){
+
+}
+
+int *sort_array(char myArray[], int length){
+
+
+}
+
+struct print_statistics(char myArray[], int length){
+
+
+}
+
+void print_array(char myArray[], int length){
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
